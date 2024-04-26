@@ -55,12 +55,14 @@ h1{
 }
 
 .class-A p {
- margin-top: 10px;
+    margin-top: 10px;
     overflow: hidden;
-    width: 80%;
-    white-space: pre-wrap
-}
+    width: 70%;
+    white-space: pre-wrap;
+    line-height: 20px;
+    font-size: small;
 
+}
 
 .class-A img {
     max-width: 100%; 
