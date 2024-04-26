@@ -55,10 +55,10 @@ h1{
 }
 
 .class-A p {
-    margin-top: 10px;
+ margin-top: 10px;
     overflow: hidden;
-/*     text-overflow: ellipsis; */
-    width: 50%;
+    width: 70%;
+    white-space: pre-wrap
 }
 
 
